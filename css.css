@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    padding: 10px;
+}
+
+header a{
+    text-decoration: none;
+}
+
+seccion_imagen img{
+    width: 100%;
+}
+
+.seccion_noticias{
+
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.8;
+    background-color: white;
+}
+
+main i{
+    color: rgb(247,177,96);
+}
+
+main{
+    background-color: #faecdf;
+}
+
+footer{
+    background-color:black ;
+    color: white;
+    padding: 20px;
+    
+}
+
+footer a{
+    text-decoration: none;
+}
